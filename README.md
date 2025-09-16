@@ -1,5 +1,5 @@
 # 💫 Howdy I'm Eddie:
-🧑‍💻 Studied Computer Science at Texas A&M University - San Antonio<br>📊 Interested in working with data and uncovering patterns<br>🤖 Learning about Data Analytics & Machine Learning<br>🏐 Love to play Volleyball and Chess ♟️<br>📫 How to reach me: eduardolh383@gmail.com
+🧑‍💻 Studied Computer Science at Texas A&M University - San Antonio<br>📊 Interested in working with data and uncovering patterns<br>🤖 Learning about Data Analytics & Machine Learning<br>🏐 Love to play Volleyball and Chess ♟️<br>📫 How to reach me: eduardolh383@gmail.com <br> 💼 See my portfolio: eduardo-lara.com
 
 
 ## 🌐 Socials
